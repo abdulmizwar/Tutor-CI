@@ -36,7 +36,7 @@ void TampilData(){
         for (int i = 0; i < top; i++)
         {
             cout<< i + 1<<". "<<dataBuku[i]<<endl;
-        }
+        
     } else {
         cout<<"Data Tersimpan Masih Kosong"<<endl;
     }
