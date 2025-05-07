@@ -28,8 +28,7 @@ bool isFull(){
 //tampil data
 
 void TampilData(){
- // jika isi kosong maka tampilkan data kosong
-
+ 
     if (!isEmpty())
     {
 
